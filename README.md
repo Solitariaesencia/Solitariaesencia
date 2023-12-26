@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hola, soy Pablo Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Pablo Martínez Fernández</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;¡Apasionado de la electrónica y la informática, emprendedor en reparación de móviles y con experiencia en aeronáutica!</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Apasionado+del+Mundo+Electrónico&hearts;++;Técnico+en+Mantenimiento+Electrónico,;Ingenieria+Electrónica,;Futuro+Programador,;Try+Hack+Me+Pro+Hacker+Level,;Graduado+en+Música..<3"></a>
 </p>
 
 
@@ -11,28 +11,28 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **SOBRRE MI**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19OQo0jMHGipsf7T4NSV2B50vxeKn8T5c-75iA22pc7p6TtSs2FNij60PovEPDlKud8M&usqp=CAU" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Desarrollador Front-end apasionado y autodidacta 🚀
+- Jugando CTF en mi tiempo libre 🔍
+- Actualmente aprendiendo Desarrollo Web por cuenta propia 💻
+- Mi sitio web personal enlace 🌐
+- Estoy abierto a oportunidades de pasantía o trabajo, aquí está mi currículum 📄
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> HABILIDADES</b>
 <br>
 
 <p align="center">
 
-- **Languages**:
+- **IDIOMAS**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@
 
 <br>   
     
-- **Front-End Development**:
+- **FRONT-END**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
